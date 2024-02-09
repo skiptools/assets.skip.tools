@@ -8,3 +8,14 @@ or edited online using https://app.diagrams.net.
 
 See https://www.drawio.com/doc/ for more information about the app.
 
+## app-dev
+
+![app](skip-diagrams-app.svg)
+
+## testing
+
+![testing](skip-diagrams-testing.svg)
+
+## ui
+
+![ui](skip-diagrams-ui.svg)
