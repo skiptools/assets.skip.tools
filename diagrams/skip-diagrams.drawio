@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-02-09T21:39:29.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="_sBiGlj22TciSTcTLNIA" version="23.0.2" type="device" pages="3">
+<mxfile host="Electron" modified="2024-02-09T21:41:53.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="mT6_dtriy47Ztgbff_FF" version="23.0.2" type="device" pages="3">
   <diagram name="app" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1531" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="scPuAvMtTnTLqgJ-czZf" name="ui">
-    <mxGraphModel dx="1421" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,12 +237,12 @@
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-13" value="iPhone&lt;br&gt;&lt;br&gt;Simulator / Device" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" parent="1Nkree-5bMbzlfmYA3V_-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2504" y="1" relative="1" as="geometry">
-            <mxPoint x="494" y="-197" as="offset" />
+            <mxPoint x="457" y="-197" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-14" value="Android&lt;br&gt;&lt;br&gt;Emulator / Device" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" parent="1Nkree-5bMbzlfmYA3V_-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2504" y="1" relative="1" as="geometry">
-            <mxPoint x="494" as="offset" />
+            <mxPoint x="457" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-15" value="SkipUI Source Code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
@@ -255,7 +255,7 @@
           <mxGeometry x="1070.6900000000003" y="944.5" width="86.66" height="169" as="geometry" />
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-18" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1070.6900000000003" y="750" width="85" height="170" as="geometry" />
+          <mxGeometry x="1070" y="750.5" width="85" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1077.6900000000003" y="776" width="69" height="117" as="geometry" />
