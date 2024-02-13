@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-13T15:20:24.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wjkK6M1UVK5ZAzZOm3fq" version="23.0.2" type="device" pages="7">
+<mxfile host="Electron" modified="2024-02-13T17:09:13.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OJKK5ooUqVQYzZFQILjG" version="23.0.2" type="device" pages="7">
   <diagram name="app" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,9 +66,6 @@
         <mxCell id="kpgRibpIZsiddVrAp_pB-101" value="Kotlin Source Code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="223" y="413" width="264" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kpgRibpIZsiddVrAp_pB-133" value="App Development" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="173.31" y="145" width="363.38" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="kpgRibpIZsiddVrAp_pB-136" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1104" y="378.5" width="86.66" height="169" as="geometry" />
         </mxCell>
@@ -91,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8X8Eh6OiF4WHIHoZJ3e5" name="testing">
-    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="1458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,9 +139,6 @@
         <mxCell id="JpNpzkPMZi4xFwTM5_w0-12" value="Kotlin JUnit Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="129.69" y="388" width="264" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JpNpzkPMZi4xFwTM5_w0-13" value="Testing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="80" y="123" width="363.38" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JpNpzkPMZi4xFwTM5_w0-14" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" parent="1" target="JpNpzkPMZi4xFwTM5_w0-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="695.3823076923077" y="242.76923076923072" as="targetPoint" />
@@ -179,7 +173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="scPuAvMtTnTLqgJ-czZf" name="ui">
-    <mxGraphModel dx="1938" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1328" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +202,7 @@
             <mxPoint x="3" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Nkree-5bMbzlfmYA3V_-6" value="SwiftUI Source Code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="1Nkree-5bMbzlfmYA3V_-6" value="SwiftUI Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="189.69" y="779" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-7" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.461;entryDx=0;entryDy=0;strokeWidth=2;entryPerimeter=0;" parent="1" source="1Nkree-5bMbzlfmYA3V_-8" target="1Nkree-5bMbzlfmYA3V_-18" edge="1">
@@ -245,11 +239,8 @@
             <mxPoint x="457" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Nkree-5bMbzlfmYA3V_-15" value="SkipUI Source Code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="1Nkree-5bMbzlfmYA3V_-15" value="SkipUI Kotlin Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="189.69" y="974" width="264" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="1Nkree-5bMbzlfmYA3V_-16" value="UI Development" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="140" y="700" width="363.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1070.6900000000003" y="944.5" width="86.66" height="169" as="geometry" />
@@ -383,7 +374,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LIVdIcyeTxxCkN50RTaI" name="project">
-    <mxGraphModel dx="2338" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1409" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,6 +428,9 @@
         </mxCell>
         <mxCell id="P7rdaBwi4jcZJEYfJTk5-26" value="Xcode Project" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
           <mxGeometry x="-174.06" y="745" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SWyR4HSyOCf7GTH0DMN6-1" value="FIXME: text elements are unaligned when rendered in web" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-252" y="471" width="241" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
