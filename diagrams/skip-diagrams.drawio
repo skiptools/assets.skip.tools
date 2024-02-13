@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-10T15:06:56.242Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="dfpbc0SLSIJkwqw7Y2fA" version="23.0.2" type="device" pages="3">
+<mxfile host="Electron" modified="2024-02-13T15:20:24.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wjkK6M1UVK5ZAzZOm3fq" version="23.0.2" type="device" pages="7">
   <diagram name="app" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1421" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           <mxGeometry x="223" y="413" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kpgRibpIZsiddVrAp_pB-133" value="App Development" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="173.31" y="155" width="363.38" height="30" as="geometry" />
+          <mxGeometry x="173.31" y="145" width="363.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kpgRibpIZsiddVrAp_pB-136" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1104" y="378.5" width="86.66" height="169" as="geometry" />
@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8X8Eh6OiF4WHIHoZJ3e5" name="testing">
-    <mxGraphModel dx="1421" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry x="129.69" y="388" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JpNpzkPMZi4xFwTM5_w0-13" value="Testing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="80" y="89" width="363.38" height="30" as="geometry" />
+          <mxGeometry x="80" y="123" width="363.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JpNpzkPMZi4xFwTM5_w0-14" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" parent="1" target="JpNpzkPMZi4xFwTM5_w0-15" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -179,7 +179,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="scPuAvMtTnTLqgJ-czZf" name="ui">
-    <mxGraphModel dx="1421" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
           <mxGeometry x="189.69" y="974" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-16" value="UI Development" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="140" y="720" width="363.38" height="30" as="geometry" />
+          <mxGeometry x="140" y="700" width="363.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1070.6900000000003" y="944.5" width="86.66" height="169" as="geometry" />
@@ -280,6 +280,163 @@
         </mxCell>
         <mxCell id="1Nkree-5bMbzlfmYA3V_-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="1158.69" y="828" width="89" height="203" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QqPOUcaZ5ELQ9Z7wChY7" name="config">
+    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=default;endArrow=none;endFill=0;startArrow=box;startFill=0;" edge="1" parent="1" source="lpcDWlSq0RCuaKUp5d8I-6" target="Fm4-d5ddhm65HStjjKhL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lpcDWlSq0RCuaKUp5d8I-6" target="lpcDWlSq0RCuaKUp5d8I-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lpcDWlSq0RCuaKUp5d8I-6" value="&lt;pre&gt;Skip.env&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;fontFamily=Courier New;fontStyle=0;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="119" y="121" width="315" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="lpcDWlSq0RCuaKUp5d8I-7" value="iOS App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="970.69" y="94" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lpcDWlSq0RCuaKUp5d8I-8" value="Android App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970.69" y="341" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lpcDWlSq0RCuaKUp5d8I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="lpcDWlSq0RCuaKUp5d8I-11" target="lpcDWlSq0RCuaKUp5d8I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lpcDWlSq0RCuaKUp5d8I-11" value="&lt;pre&gt;&lt;sub&gt;Android/app/src/main/&lt;br&gt;&lt;/sub&gt;AndroidManifest.xml&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="510" y="292" width="299" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Fm4-d5ddhm65HStjjKhL-1" target="lpcDWlSq0RCuaKUp5d8I-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-1" value="&lt;pre&gt;&lt;sub&gt;Darwin/&lt;br&gt;&lt;/sub&gt;AppName.xcconfig&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="510" y="145" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-8" value="PRODUCT_NAME" style="text;whiteSpace=wrap;fontFamily=Courier New;fontSize=18;align=right;" vertex="1" parent="1">
+          <mxGeometry x="114.00333333333356" y="184" width="300" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-9" value="ANDROID_PACKAGE_NAME" style="text;whiteSpace=wrap;fontFamily=Courier New;fontSize=18;align=right;" vertex="1" parent="1">
+          <mxGeometry x="114.00333333333356" y="364.9966666666668" width="300" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-10" value="SKIP_PROJECT_NAME" style="text;whiteSpace=wrap;fontFamily=Courier New;fontSize=18;align=right;" vertex="1" parent="1">
+          <mxGeometry x="114.00333333333356" y="329" width="300" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Fm4-d5ddhm65HStjjKhL-16" value="MARKETING_VERSION" style="text;whiteSpace=wrap;fontFamily=Courier New;fontSize=18;align=right;" vertex="1" parent="1">
+          <mxGeometry x="114.00333333333356" y="220" width="300" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="TRsbRSY6Cj9P_WULUbfD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TRsbRSY6Cj9P_WULUbfD-5" target="lpcDWlSq0RCuaKUp5d8I-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRsbRSY6Cj9P_WULUbfD-5" value="&lt;pre&gt;Package.swift&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="510" y="21" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TRsbRSY6Cj9P_WULUbfD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="TRsbRSY6Cj9P_WULUbfD-6" target="lpcDWlSq0RCuaKUp5d8I-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRsbRSY6Cj9P_WULUbfD-6" value="&lt;pre&gt;&lt;sub&gt;Sources/AppModule/Skip/&lt;br&gt;&lt;/sub&gt;skip.yml&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="510" y="414" width="299" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PAk9zV1mwlWmAeL3NoVJ-1" value="Maven/Gradle Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="659.4957142857143" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="PAk9zV1mwlWmAeL3NoVJ-2" value="SwiftPM Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="886.9957142857143" y="94" as="geometry">
+            <mxPoint x="-229" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wLZvZAermHzzVjkpiYD-2" value="CURRENT_PROJECT_VERSION" style="text;whiteSpace=wrap;fontFamily=Courier New;fontSize=18;align=right;" vertex="1" parent="1">
+          <mxGeometry x="114.00333333333356" y="256" width="300" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="0wLZvZAermHzzVjkpiYD-3" value="Configuration" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20.620000000000005" y="21" width="363.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0wLZvZAermHzzVjkpiYD-4" value="PRODUCT_BUNDLE_IDENTIFIER" style="text;whiteSpace=wrap;fontFamily=Courier New;fontSize=18;align=right;" vertex="1" parent="1">
+          <mxGeometry x="114.00333333333356" y="293" width="300" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nSRWg-OIy5cmb1aD9-aY" name="localization">
+    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ut0zCWoYlhtZvTBrvydT-1" value="Localization" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20.620000000000005" y="21" width="363.38" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LaLkyH1W7WbbU5dnKVPh" name="frameworks">
+    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ppnlzK8M_x-d3hh3bvox-1" value="Frameworks" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20.620000000000005" y="21" width="363.38" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LIVdIcyeTxxCkN50RTaI" name="project">
+    <mxGraphModel dx="2338" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-21" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;verticalAlign=top;align=right;fontSize=16;fontStyle=2;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="107" y="541" width="418" height="289" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-20" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;verticalAlign=top;align=right;fontSize=16;fontStyle=2;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="107" y="231" width="418" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-17" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;verticalAlign=top;align=right;fontSize=16;fontStyle=2;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="107" y="830" width="418" height="313" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-1" value="hello-skip&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 14px;&quot; class=&quot;s1&quot;&gt;├── &lt;b&gt;Skip.env&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;├── &lt;b&gt;Android&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; ├── app&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── build.gradle.kts&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── proguard-rules.pro&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; └── src&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;└── main&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;├── AndroidManifest.xml&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;├── kotlin&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; └── hello&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;└── skip&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;└── Main.kt&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;└── res&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;├── mipmap-hdpi&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; └── ic_launcher.png&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;└── mipmap-xxxhdpi&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;└── ic_launcher.png&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; ├── gradle.properties&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; └── settings.gradle.kts&lt;br&gt;&lt;/span&gt;│&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;├── &lt;b&gt;Darwin&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; ├── Assets.xcassets&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── AccentColor.colorset&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; └── Contents.json&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── AppIcon.appiconset&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── AppIcon@2x.png&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── AppIcon@3x.png&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; ├── AppIcon~ios-marketing.png&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; └── Contents.json&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; └── Contents.json&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; ├── Entitlements.plist&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; ├── HelloSkip.xcconfig&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; ├── HelloSkip.xcodeproj&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; │&amp;nbsp;&amp;nbsp; └──&amp;nbsp;&lt;/span&gt;project.pbxproj&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; └── Sources&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;└── HelloSkipAppMain.swift&lt;br&gt;&lt;/span&gt;│&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;├──&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;Package.swift&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;├── &lt;b&gt;Sources&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; └── HelloSkip&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── ContentView.swift&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── HelloSkip.swift&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── HelloSkipApp.swift&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── Resources&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; └── Localizable.xcstrings&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;└── Skip&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;│&amp;nbsp;&amp;nbsp; &lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;└── skip.yml&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;└──&amp;nbsp;&lt;b&gt;Tests&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; └── HelloSkipTests&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── HelloSkipTests.swift&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── Resources&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; └── TestData.json&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;├── Skip&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;│&amp;nbsp;&amp;nbsp; └── skip.yml&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span class=&quot;Apple-converted-space&quot; style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;└── XCSkipTests.swift&lt;/span&gt;" style="text;html=1;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="101.5" y="191" width="382.5" height="932" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-2" value="App Module Configuration" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="829" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-7" value="Android Config &amp;amp; Permissions" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="326" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-9" value="Android icons" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="410" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-11" value="iOS Permissions" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="708" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-13" value="String Translations" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="944" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-15" value="Test Cases" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="994" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-18" value="iOS Icons" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="611" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-19" value="Project Configuration" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="207" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-22" value="iOS Config" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="725" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-23" value="Skip Config &amp;amp; Dependencies" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="972" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-24" value="Android Entry Point" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="389" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-25" value="iOS Entry Point" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="776" width="275.56" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7rdaBwi4jcZJEYfJTk5-26" value="Xcode Project" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#363636;" vertex="1" parent="1">
+          <mxGeometry x="-174.06" y="745" width="275.56" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
