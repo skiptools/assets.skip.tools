@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-13T17:09:13.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OJKK5ooUqVQYzZFQILjG" version="23.0.2" type="device" pages="7">
+<mxfile host="Electron" modified="2024-02-14T01:39:02.394Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Ktg1yyaDS2OWutPNYRoE" version="23.0.2" type="device" pages="8">
   <diagram name="app" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1165" dy="1122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8X8Eh6OiF4WHIHoZJ3e5" name="testing">
-    <mxGraphModel dx="1514" dy="1458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="scPuAvMtTnTLqgJ-czZf" name="ui">
-    <mxGraphModel dx="1328" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QqPOUcaZ5ELQ9Z7wChY7" name="config">
-    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,10 +331,10 @@
         <mxCell id="TRsbRSY6Cj9P_WULUbfD-6" value="&lt;pre&gt;&lt;sub&gt;Sources/AppModule/Skip/&lt;br&gt;&lt;/sub&gt;skip.yml&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="510" y="414" width="299" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PAk9zV1mwlWmAeL3NoVJ-1" value="Maven/Gradle Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="PAk9zV1mwlWmAeL3NoVJ-1" value="Maven/Gradle Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;fontStyle=2" vertex="1" connectable="0" parent="1">
           <mxGeometry x="659.4957142857143" y="501" as="geometry" />
         </mxCell>
-        <mxCell id="PAk9zV1mwlWmAeL3NoVJ-2" value="SwiftPM Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="PAk9zV1mwlWmAeL3NoVJ-2" value="SwiftPM Dependencies" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;fontStyle=2" vertex="1" connectable="0" parent="1">
           <mxGeometry x="886.9957142857143" y="94" as="geometry">
             <mxPoint x="-229" y="15" as="offset" />
           </mxGeometry>
@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nSRWg-OIy5cmb1aD9-aY" name="localization">
-    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,8 +362,93 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="fOLX7sWrOfUAaHJMw1rX" name="gradle">
+    <mxGraphModel dx="1433" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="baZupCLtGflhTfUBvAym-1" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;horizontal=0;strokeWidth=2;" edge="1" parent="1" source="baZupCLtGflhTfUBvAym-6" target="baZupCLtGflhTfUBvAym-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-2" value="Run Tests&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;(Xcode / SwiftPM)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="baZupCLtGflhTfUBvAym-1">
+          <mxGeometry x="-0.1535" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="543" y="278" as="sourcePoint" />
+            <mxPoint x="270.69" y="387.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270.69" y="339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-4" value="&lt;span style=&quot;font-weight: normal; font-size: 18px;&quot;&gt;&amp;nbsp;Skip Transpiler&amp;nbsp;&lt;font style=&quot;font-size: 18px;&quot;&gt;Plugin&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;labelBackgroundColor=none;" vertex="1" connectable="0" parent="baZupCLtGflhTfUBvAym-3">
+          <mxGeometry x="0.0863" relative="1" as="geometry">
+            <mxPoint x="1" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-5" value="Test&lt;br&gt;Parity" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=21;fontStyle=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="baZupCLtGflhTfUBvAym-3">
+          <mxGeometry x="0.0863" relative="1" as="geometry">
+            <mxPoint x="736" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-6" value="Swift XCTest Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="129.69" y="195" width="264" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-7" value="Local Tests&lt;br&gt;&lt;sub&gt;(macOS)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="738.69" y="195" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-8" value="Local Tests&lt;br&gt;&lt;sub&gt;(macOS / Robolectric)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="739.69" y="388" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="baZupCLtGflhTfUBvAym-11" target="baZupCLtGflhTfUBvAym-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-10" value="Run Tests&lt;br&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;(Android Studio / Gradle)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="baZupCLtGflhTfUBvAym-9">
+          <mxGeometry x="-0.2504" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-11" value="Kotlin JUnit Source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="129.69" y="388" width="264" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-12" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="1" target="baZupCLtGflhTfUBvAym-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695.3823076923077" y="242.76923076923072" as="targetPoint" />
+            <mxPoint x="696.69" y="243" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="696.69" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-13" value="Connected Tests&lt;br&gt;&lt;sub&gt;(iOS Simulator / Device)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="739.69" y="70" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-14" value="Connected Tests&lt;br&gt;&lt;sub&gt;(Android Emulator / Device)&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="739.69" y="523" width="293" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-15" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739.69" y="571" as="targetPoint" />
+            <mxPoint x="696.69" y="439" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="696.69" y="571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="1033.69" y="119" width="89" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="baZupCLtGflhTfUBvAym-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="1033.69" y="250" width="89" height="203" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="LaLkyH1W7WbbU5dnKVPh" name="frameworks">
-    <mxGraphModel dx="1938" dy="1524" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1458" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,7 +459,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LIVdIcyeTxxCkN50RTaI" name="project">
-    <mxGraphModel dx="1409" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
