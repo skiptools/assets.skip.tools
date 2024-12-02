@@ -1036,7 +1036,7 @@
         <mxCell id="S17EUE1rm37DSWFq_atx-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;androidx.security.crypto.&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;EncryptedSharedPreferences&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="671" y="174" width="264" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RmGTeTkKo59xzyQscAuO-1" value="Security.framework&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;SecItem()&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="RmGTeTkKo59xzyQscAuO-1" value="Security.framework&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Keychain Services&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="671" y="-59" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RmGTeTkKo59xzyQscAuO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;" edge="1" parent="1" source="RmGTeTkKo59xzyQscAuO-7" target="S17EUE1rm37DSWFq_atx-2">
@@ -1057,7 +1057,7 @@
         <mxCell id="RmGTeTkKo59xzyQscAuO-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;JNI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;labelBackgroundColor=none;fontStyle=0" vertex="1" connectable="0" parent="1">
           <mxGeometry x="133.99666666666695" y="222" as="geometry" />
         </mxCell>
-        <mxCell id="RmGTeTkKo59xzyQscAuO-17" value="Skip Generated" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="RmGTeTkKo59xzyQscAuO-17" value="Skip Generated" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-11" y="87" width="631" height="200" as="geometry" />
         </mxCell>
       </root>
