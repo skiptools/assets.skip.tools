@@ -1260,19 +1260,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CKQbUQQsn30AdlhqqlWQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CKQbUQQsn30AdlhqqlWQ-6" target="CKQbUQQsn30AdlhqqlWQ-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tKgwxFfkWvcGI0qDGr0S-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;iOS&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;import SkipFuseUI ⇒&amp;nbsp;import SwiftUI&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120.99666666666695" y="-15" as="geometry" />
         </mxCell>
-        <mxCell id="CKQbUQQsn30AdlhqqlWQ-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;skip.ui&lt;/font&gt;&lt;div&gt;Text.kt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="378" y="174" width="162" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="CKQbUQQsn30AdlhqqlWQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CKQbUQQsn30AdlhqqlWQ-10" target="CKQbUQQsn30AdlhqqlWQ-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CKQbUQQsn30AdlhqqlWQ-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;iOS: import SkipFuseUI == import SwiftUI&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CKQbUQQsn30AdlhqqlWQ-7">
-          <mxGeometry x="-0.5583" relative="1" as="geometry">
-            <mxPoint x="43" y="-19" as="offset" />
-          </mxGeometry>
+        <mxCell id="CKQbUQQsn30AdlhqqlWQ-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Android&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;import SkipFuseUI&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-77.00333333333305" y="223" as="geometry" />
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CKQbUQQsn30AdlhqqlWQ-10" target="CKQbUQQsn30AdlhqqlWQ-15">
           <mxGeometry relative="1" as="geometry" />
@@ -1281,22 +1273,21 @@
           <mxGeometry x="-320" y="48" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;androidx.compose.material3.&lt;/span&gt;&lt;div&gt;&lt;font&gt;Text(&quot;Hello Skip!&quot;)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="591" y="174" width="264" height="100" as="geometry" />
+          <mxGeometry x="391" y="174" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SwiftUI.framework&lt;/font&gt;&lt;div&gt;Text(&quot;Hello Skip!&quot;)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="596" y="-65" width="264" height="100" as="geometry" />
+          <mxGeometry x="396" y="-65" width="264" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CKQbUQQsn30AdlhqqlWQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;" edge="1" parent="1" source="CKQbUQQsn30AdlhqqlWQ-14" target="CKQbUQQsn30AdlhqqlWQ-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CKQbUQQsn30AdlhqqlWQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;" edge="1" parent="1" source="CKQbUQQsn30AdlhqqlWQ-14" target="CKQbUQQsn30AdlhqqlWQ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="378" y="224" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-14" value="&lt;div&gt;SkipUI&lt;/div&gt;&lt;div&gt;(&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kotlin)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="188" y="174" width="132" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-15" value="&lt;div&gt;SwiftUI&lt;/div&gt;&lt;div&gt;(Swift)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="55" y="174" width="132" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="CKQbUQQsn30AdlhqqlWQ-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Android: import SkipFuseUI&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-92.00333333333305" y="245" as="geometry" />
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SkipFuseUI Bridge&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="197.99666666666695" y="148" as="geometry" />
@@ -1307,7 +1298,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CKQbUQQsn30AdlhqqlWQ-19" value="Skip Generated" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="87" width="535" height="200" as="geometry" />
+          <mxGeometry x="29" y="87" width="322" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CKQbUQQsn30AdlhqqlWQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;endArrow=block;endFill=1;" edge="1" parent="1" source="CKQbUQQsn30AdlhqqlWQ-10" target="CKQbUQQsn30AdlhqqlWQ-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
