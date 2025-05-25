@@ -819,7 +819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XcmNAsFhf5Zfzy_68JmY" name="native">
-    <mxGraphModel dx="2274" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2674" dy="1235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -855,7 +855,7 @@
             <mxPoint x="294" y="554.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oy7fwI9CtXfdpUg3fqb_-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SkipFuse&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bridge&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oy7fwI9CtXfdpUg3fqb_-5" vertex="1" connectable="0">
+        <mxCell id="oy7fwI9CtXfdpUg3fqb_-6" value="&lt;font&gt;SkipFuse&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bridge&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="oy7fwI9CtXfdpUg3fqb_-5" vertex="1" connectable="0">
           <mxGeometry x="-0.0375" y="3" relative="1" as="geometry">
             <mxPoint x="2" y="-18" as="offset" />
           </mxGeometry>
@@ -952,7 +952,7 @@
             <mxPoint x="-107.91" y="512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9VAM_cBYvKxGvlrvjZcV-1" value="Swift Frameworks&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Foundation, Observation, etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="9VAM_cBYvKxGvlrvjZcV-1" value="Core Swift Frameworks&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Foundation, Observation, etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-232" y="869" width="264" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9VAM_cBYvKxGvlrvjZcV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;endArrow=block;endFill=1;" parent="1" source="9VAM_cBYvKxGvlrvjZcV-1" target="b63CLSuiVxeIF0L2Z1t5-11" edge="1">
@@ -977,7 +977,7 @@
         </mxCell>
         <mxCell id="pHbiI9CxeiWuD7NktARg-3" value="Built-in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="2DdBjf5yfTx5Qc2PUyJC-1">
           <mxGeometry x="-0.1195" y="2" relative="1" as="geometry">
-            <mxPoint x="6" y="12" as="offset" />
+            <mxPoint x="-14" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pHbiI9CxeiWuD7NktARg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;curved=0;" edge="1" parent="1" source="pHbiI9CxeiWuD7NktARg-1" target="b63CLSuiVxeIF0L2Z1t5-11">
@@ -994,6 +994,25 @@
         </mxCell>
         <mxCell id="pHbiI9CxeiWuD7NktARg-4" value="&lt;div&gt;Java/Kotlin&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;dependencies&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="354" y="869" width="264" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pHbiI9CxeiWuD7NktARg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="pHbiI9CxeiWuD7NktARg-8" target="b63CLSuiVxeIF0L2Z1t5-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHbiI9CxeiWuD7NktARg-10" value="Linked" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="pHbiI9CxeiWuD7NktARg-9">
+          <mxGeometry x="0.1282" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHbiI9CxeiWuD7NktARg-8" value="SwiftUI&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;UIKit + Apple Frameworks&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="504" width="264" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pHbiI9CxeiWuD7NktARg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.355;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;endArrow=none;startFill=0;curved=0;" edge="1" parent="1" source="pHbiI9CxeiWuD7NktARg-8" target="b63CLSuiVxeIF0L2Z1t5-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHbiI9CxeiWuD7NktARg-12" value="Built-in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="pHbiI9CxeiWuD7NktARg-11">
+          <mxGeometry x="0.6424" y="-2" relative="1" as="geometry">
+            <mxPoint x="5" y="14" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
