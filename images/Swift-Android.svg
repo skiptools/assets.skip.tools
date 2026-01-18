@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="372px" height="372px" viewBox="0 0 372 372" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(43.000000, 16.000000)" fill-rule="nonzero">
+            <g id="Android_robot">
+                <g id="Group" fill="#F05138">
+                    <g id="b-link" transform="translate(52.000000, 25.429960)" stroke="#FFFFFF" stroke-width="14.4">
+                        <g id="b">
+                            <ellipse id="Oval" cx="91" cy="84" rx="91" ry="84"></ellipse>
+                            <rect id="Rectangle" x="0" y="63" width="182" height="182" rx="22"></rect>
+                        </g>
+                    </g>
+                    <g id="a-link" transform="translate(181.845820, 169.714980) scale(-1, 1) translate(-181.845820, -169.714980) translate(77.691641, 0.000000)" stroke="#FFFFFF" stroke-width="7.2">
+                        <g id="a">
+                            <rect id="Rectangle" transform="translate(181.776518, 40.759910) rotate(29.000000) translate(-181.776518, -40.759910) " x="175.276518" y="-2.24009006" width="13" height="86" rx="6.5"></rect>
+                            <rect id="c" x="0" y="109.42996" width="48" height="133" rx="24"></rect>
+                            <g id="c-link" transform="translate(85.000000, 206.429960)">
+                                <rect id="c" x="0" y="0" width="48" height="133" rx="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="a" stroke="#FFFFFF" stroke-width="7.2">
+                        <rect id="Rectangle" transform="translate(181.776518, 40.759910) rotate(29.000000) translate(-181.776518, -40.759910) " x="175.276518" y="-2.24009006" width="13" height="86" rx="6.5"></rect>
+                        <rect id="c" x="0" y="109.42996" width="48" height="133" rx="24"></rect>
+                        <g id="c-link" transform="translate(85.000000, 206.429960)">
+                            <rect id="c" x="0" y="0" width="48" height="133" rx="24"></rect>
+                        </g>
+                    </g>
+                    <g id="b" transform="translate(52.000000, 25.429960)">
+                        <ellipse id="Oval" cx="91" cy="84" rx="91" ry="84"></ellipse>
+                        <rect id="Rectangle" x="0" y="63" width="182" height="182" rx="22"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(48.000000, 64.429960)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="7.2">
+                    <line x1="0" y1="48.5" x2="190" y2="48.5" id="Path"></line>
+                    <circle id="Oval" cx="53" cy="4" r="4"></circle>
+                    <circle id="Oval" cx="137" cy="4" r="4"></circle>
+                </g>
+            </g>
+            <g id="swift" transform="translate(84.000000, 132.000000)" fill="#FFFFFF">
+                <path d="M102.660475,71.0536751 L102.650483,71.0436054 C102.815347,70.4797074 102.985207,69.9208441 103.12759,69.344359 C109.285021,44.6209527 94.2598914,15.3913966 68.8283304,0 C79.9716556,15.2252481 84.9000978,33.6677361 80.5212031,49.7942141 C80.131524,51.2316507 79.6619106,52.6137045 79.1423384,53.9554798 C78.5803012,53.5829043 77.8683873,53.1599807 76.9191689,52.6288089 C76.9191689,52.6288089 51.6224968,36.8900108 24.2050708,9.04754325 C23.4856632,8.31749663 38.8230352,31.1427817 56.2337002,49.6784136 C48.0304543,45.0388415 25.1742728,28.2804955 10.7036872,14.9332294 C12.4822228,17.9213857 14.5954829,20.7987764 16.9210681,23.5679187 C29.00362,39.0121808 44.7631444,58.0638801 63.6426001,72.700056 C50.378521,80.881613 31.6339543,81.5159983 12.9718197,72.7076083 C8.40334041,70.5452891 4.05825456,67.9329385 0,64.9086965 C7.8984968,77.6417164 20.0659787,88.6301767 34.8712888,95.0419999 C52.5317482,102.692385 70.0922897,102.1738 83.171521,95.16787 L83.1615292,95.1854918 C83.2214799,95.1452134 83.2989161,95.104935 83.3613647,95.0671739 C83.8959246,94.7751553 84.4304844,94.4781019 84.9500566,94.165944 C91.2348821,90.8782168 103.647162,87.5451764 110.309177,100.607976 C111.942832,103.805077 115.40748,86.8629604 102.662973,71.0536751 L102.660475,71.0536751 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
